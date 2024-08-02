@@ -56,7 +56,7 @@ function ProfilePage() {
   }, []);
 
   return (
-    <div className="flex flex-col items-center w-screen">
+    <div className="flex flex-col items-center justify-center w-screen h-screen">
       {pageStatus === ProfilePageStatusEnum.view && (
         <div className="m-4">
           <Button size="large" type="primary" onClick={() => setPageStatus(ProfilePageStatusEnum.edit)}>
