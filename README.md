@@ -1,4 +1,12 @@
-# react express mongoose CRUD 项目
+# Profile CRUD 项目
+## 技术栈
+- react
+- express
+- mongoose
+## 功能
+- 用户信息修改
+- 用户信息查询
+
 
 # Getting Started with Create Blocklet
 
